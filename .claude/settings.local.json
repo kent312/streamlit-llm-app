@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(env/Scripts/python.exe -m streamlit run:*)"
+    ],
+    "deny": []
+  }
+}
